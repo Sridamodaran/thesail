@@ -1,6 +1,6 @@
 import boto3
 #listing s3 bucket using boto3
-#finally: happening
+#finally: happening not yet
 def list_s3_buckets():
     """Lists all S3 buckets."""
     # Create an S3 client
